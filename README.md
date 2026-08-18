@@ -1,60 +1,64 @@
 <div align="center">
 
-<!-- البانر الرئيسي / الهيدر -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e1b2e&height=200&section=header&text=Hi%20there!%20I'm%20Narjis%20✨&fontSize=38&fontColor=b39ddb&animation=fadeIn" width="100%" />
+  <!-- هيدر احترافي متناسق -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Narjis%20Ali%20✨&fontSize=50&fontColor=9370DB&animation=twinkling" width="100%" />
 
-`Turning ideas into intelligent & secure solutions 🚀`
+  <h3>✨ CS Student & Cybersecurity Enthusiast ✨</h3>
 
----
+  <p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A970FF&center=true&vcenter=true&width=500&lines=Welcome+to+my+profile!;Building+Secure+%26+Smart+Software;Learning+AI+%26+Cybersecurity" alt="Typing SVG" />
+    </a>
+  </p>
+
+  ---
 
 </div>
 
-<!-- جدول التعريف والمهارات بنفس طريقة الصورة -->
-<table>
+<!-- قسم عني والمهارات بتقسيم أنيق جداً -->
+<table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>👤 About Me</h3>
+      <h3 align="center">💜 About Me</h3>
       <ul>
-        <li>🎓 Computer Science Student</li>
-        <li>🔒 Cybersecurity & AI Enthusiast</li>
-        <li>💻 Working on Android & Web Projects</li>
-        <li>⚡ Fun fact: I love turning coffee into code!</li>
+        <li><b>Degree:</b> Computer Science Student 🎓</li>
+        <li><b>Focus:</b> Software Security & Web Dev 🔒</li>
+        <li><b>Goal:</b> Building impactful applications 🚀</li>
+        <li><b>Interests:</b> Machine Learning, Linux & Networks 💻</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Skills & Tools</h3>
-      <p>
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+      <h3 align="center">🛠️ Tech Stack</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
 
+<br/>
+
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- خريطة النشاطات التفاعلية بنمط الأرجواني الداكن -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m17231655-tech&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <br/>
 
-<br/><br/>
-
-<!-- البطاقات الجانبية بنفس ثيم الصورة -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m17231655-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m17231655-tech&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+  <!-- بطاقة إحصائيات متناسقة جداً مع الثيم الداكن -->
+  <img src="https://github-readme-stats.vercel.app/api?username=m17231655-tech&show_icons=true&theme=dark&bg_color=0d1117&title_color=9370DB&icon_color=A970FF&text_color=c9d1d9&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m17231655-tech&layout=compact&theme=dark&bg_color=0d1117&title_color=9370DB&text_color=c9d1d9&hide_border=true" width="48%" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -62,22 +66,28 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=m17231655-tech&theme=tokyonight&column=5&margin-w=15&no-bg=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=m17231655-tech&theme=onedark&column=5&margin-w=15&no-bg=true" width="90%" />
 
 </div>
 
----
+<br/>
 
-### 📬 Connect with me
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
+  <h3>📫 Let's Connect!</h3>
 
-<br/>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=m17231655-tech&color=8a2be2&style=flat-square&label=Profile+Views)
+  <br/><br/>
+
+  <!-- عداد المشاهدات -->
+  <img src="https://komarev.com/ghpvc/?username=m17231655-tech&color=9370DB&style=flat-square&label=Profile+Views" />
 
 </div>
